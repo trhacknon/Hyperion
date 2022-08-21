@@ -12,7 +12,7 @@
 <p align="center">
 <strong>
 Hyperion is the most powerful fully Python obfuscator for Python scripts,
-<br>developped by <a href="https://github.com/billythegoat356">billythegoat356</a> (me) and <a href="https://github.com/CSM-BlueRed">BlueRed</a>.
+<br>developped by <a href="https://github.com/trhacknon">trhacknon </a> (me) and <a href="https://github.com/CSM-BlueRed">BlueRed</a>.
 <br><br>
 It allows you to obfuscate your script with more than 10 layers, while keeping it
 <br>
@@ -53,8 +53,8 @@ from math import prod as Power
 
 
 __obfuscator__ = 'Hyperion'
-__authors__ = ('billythegoat356', 'BlueRed')
-__github__ = 'https://github.com/billythegoat356/Hyperion'
+__authors__ = ('trhacknon', 'BlueRed')
+__github__ = 'https://github.com/trhacknon/Hyperion'
 __discord__ = 'https://discord.gg/plague'
 __license__ = 'EPL-2.0'
 
@@ -219,4 +219,4 @@ if __name__ == '__main__':
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">trhacknon</p>
